@@ -73,9 +73,9 @@
 	},
 	"test": {
 		"id": 0,
-		"image": "SwiftUI Test",
+		"image": "swiftUI",
 		"time": "30 minutes",
-		"description": "Test your knowledge of SwiftUI.",
+		"description": "Something else if I made an error",
 		"questions": [{
 				"id": 0,
 				"content": "<p>Every SwiftUI app has exactly one scene to which contains a view hierarchy.</p>",
